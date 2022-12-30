@@ -44,7 +44,7 @@ export default function Index() {
               color: textColor,
               borderColor: textColor,
             }}
-            onClick={changeColor}
+            onClick={newcolour}
           >
             Change Color
           </Button>
