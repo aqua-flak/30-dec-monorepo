@@ -44,7 +44,7 @@ export default function Index() {
               color: textColor,
               borderColor: textColor,
             }}
-            onClick={newcolour}
+            onClick={ChannelMergerNode}
           >
             Change Color
           </Button>
